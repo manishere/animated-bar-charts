@@ -1,3 +1,3 @@
 # animated-bar-charts
 
-Different types of Animated Bar Chart Race made using Python 
+Different types of Animated Bar Chart Races made using Python 
